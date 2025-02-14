@@ -65,7 +65,7 @@ We appreciate all contributions to improve OpenOOD. We sincerely welcome communi
 #### Installation
 OpenOOD now supports installation via pip.
 ```
-pip install git+https://github.com/Jingkang50/OpenOOD
+pip install git+https://github.com/huszarcs/OpenOOD
 pip install libmr
 
 # optional, if you want to use CLIP
